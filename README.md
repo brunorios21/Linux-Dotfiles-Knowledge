@@ -20,3 +20,14 @@ El archivo scripts/mantenimiento.sh permite realizar una actualizacion completa 
 
 ---
 Repositorio mantenido por Bruno - Estudiante de Licenciatura en Gestion de Tecnologias de la Informacion.
+
+## Como utilizar este repositorio
+
+1. Clonar el repositorio:
+   git clone https://github.com/brunorios21/Linux-Dotfiles-Knowledge.git
+
+2. Dar permisos a los scripts:
+   chmod +x scripts/*.sh
+
+3. Ejecutar el script de mantenimiento:
+   ./scripts/mantenimiento.sh
